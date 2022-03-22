@@ -2,11 +2,11 @@
   "jobs": [
     {
       "type": "http",
-      "count": 10,
+      "count": 30,
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://stipruskartu.lt"
+          "path": "http://gordonua.com"
         },
         "interval_ms": 1
       }
