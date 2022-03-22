@@ -2,14 +2,58 @@
   "jobs": [
     {
       "type": "http",
-      "count": 30,
+      "count": 15,
       "args": {
         "request": {
           "method": "GET",
-          "path": "http://gordonua.com"
+          "path": "http://alekseev.com.ua/"
         },
         "interval_ms": 1
       }
+    },
+    {
+      "type": "http",
+      "count": 15,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://gordonua.com"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 15,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://strana.today/"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 15,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://www.ukr.net/"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 15,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://tsn.ua/"
+        },
+        "interval_ms": 1
+      } 
     }
   ]
 }
