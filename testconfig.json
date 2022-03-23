@@ -17,7 +17,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "http://gordonua.com"
+          "path": "https://gordonua.com"
         },
         "interval_ms": 1
       }
