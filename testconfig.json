@@ -24,7 +24,7 @@
     },
     {
       "type": "http",
-      "count": 15,
+      "count": 25,
       "args": {
         "request": {
           "method": "GET",
@@ -35,7 +35,7 @@
     },
     {
       "type": "http",
-      "count": 15,
+      "count": 25,
       "args": {
         "request": {
           "method": "GET",
