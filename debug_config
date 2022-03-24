@@ -1,0 +1,15 @@
+{
+  "jobs": [
+    {
+      "type": "http",
+      "count": 150,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "http://pedan.com.ua/"
+        },
+        "interval_ms": 1
+      }
+    }
+  ]
+}
