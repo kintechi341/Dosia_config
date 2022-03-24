@@ -2,7 +2,7 @@
   "jobs": [
     {
       "type": "http",
-      "count": 25,
+      "count": 20,
       "args": {
         "request": {
           "method": "GET",
@@ -13,11 +13,11 @@
     },
     {
       "type": "http",
-      "count": 15,
+      "count": 20,
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://gordonua.com"
+          "path": "http://antonkisse.com"
         },
         "interval_ms": 1
       }
@@ -28,7 +28,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://strana.today/"
+          "path": "https://tinakarol.com/"
         },
         "interval_ms": 1
       }
@@ -39,7 +39,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://www.ukr.net/"
+          "path": "https://ruslana.ua/"
         },
         "interval_ms": 1
       }
