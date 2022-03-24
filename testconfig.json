@@ -52,7 +52,8 @@
           "method": "GET",
           "path": "https://tsn.ua/"
         },
-      }  "interval_ms": 1
+        "interval_ms": 1
+      }
     },
     {
       "type": "http",
