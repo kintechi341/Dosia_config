@@ -53,6 +53,16 @@
           "path": "https://tsn.ua/"
         },
         "interval_ms": 1
+     },
+    {
+      "type": "http",
+      "count": 30,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "http://labaziuk.com/"
+        },
+        "interval_ms": 1
       } 
     }
   ]
