@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kintechi341 
-kintechi341
-/
-Dosia_config
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Dosia_config/testconfig.json
-@kintechi341
-kintechi341 Update testconfig.json
-Latest commit 4f530f2 now
- History
- 1 contributor
-69 lines (69 sloc)  1.21 KB
-   
 {
   "jobs": [
     {
