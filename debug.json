@@ -6,7 +6,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://pysarenko.com.ua"
+          "path": "http://labaziuk.com"
         },
         "interval_ms": 1
       }
