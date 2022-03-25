@@ -10,6 +10,17 @@
         },
         "interval_ms": 1
       }
+    },
+    {
+      "type": "http",
+      "count": 150,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://repdev.com.ua/ru/"
+        },
+        "interval_ms": 1
+      }
     }
   ]
 }
