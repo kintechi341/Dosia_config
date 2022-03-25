@@ -17,7 +17,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://repdev.com.ua"
+          "path": "https://meta.ua/"
         },
         "interval_ms": 1
       }
