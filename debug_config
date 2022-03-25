@@ -6,7 +6,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "http://pedan.com.ua/"
+          "path": "https://espreso.tv"
         },
         "interval_ms": 1
       }
