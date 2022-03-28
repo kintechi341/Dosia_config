@@ -6,17 +6,6 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "http://labaziuk.com"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 150,
-      "args": {
-        "request": {
-          "method": "GET",
           "path": "https://meta.ua/"
         },
         "interval_ms": 1
