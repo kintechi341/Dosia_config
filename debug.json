@@ -2,11 +2,44 @@
   "jobs": [
     {
       "type": "http",
-      "count": 150,
+      "count": 10,
       "args": {
         "request": {
           "method": "GET",
           "path": "https://pysarenko.com.ua/"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 10,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://odynvkanoe.com/"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 1,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "http://efrosinina.com/"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 1,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "http://oksana-marchenko.com.ua/"
         },
         "interval_ms": 1
       }
