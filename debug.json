@@ -39,7 +39,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://rusjev.net"
+          "path": "http://rusjev.net"
         },
         "interval_ms": 1
       }
