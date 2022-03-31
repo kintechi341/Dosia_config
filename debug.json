@@ -39,6 +39,17 @@
       "args": {
         "request": {
           "method": "GET",
+          "path": "https://tsn.ua"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 10,
+      "args": {
+        "request": {
+          "method": "GET",
           "path": "https://www.epochtimes.com.ua"
         },
         "interval_ms": 1
