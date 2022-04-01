@@ -2,7 +2,7 @@
   "jobs": [
     {
       "type": "http",
-      "count": 10,
+      "count": 25,
       "args": {
         "request": {
           "method": "GET",
@@ -13,7 +13,7 @@
     },
     {
       "type": "http",
-      "count": 10,
+      "count": 20,
       "args": {
         "request": {
           "method": "GET",
@@ -24,7 +24,7 @@
     },
     {
       "type": "http",
-      "count": 10,
+      "count": 25,
       "args": {
         "request": {
           "method": "GET",
@@ -35,29 +35,7 @@
     },
     {
       "type": "http",
-      "count": 10,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "http://rusjev.net"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 10,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://tsn.ua"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 10,
+      "count": 25,
       "args": {
         "request": {
           "method": "GET",
