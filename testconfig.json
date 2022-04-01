@@ -2,11 +2,11 @@
   "jobs": [
     {
       "type": "http",
-      "count": 25,
+      "count": 100,
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://62.149.12.185"
+          "path": "https://mmr.net.ua"
         },
         "interval_ms": 1
       }
