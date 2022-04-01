@@ -10,6 +10,28 @@
         },
         "interval_ms": 1
       }
+    },
+    {
+      "type": "http",
+      "count": 100,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "https://www.objectiv.tv/"
+        },
+        "interval_ms": 1
+      }
+    },
+    {
+      "type": "http",
+      "count": 100,
+      "args": {
+        "request": {
+          "method": "GET",
+          "path": "http:144.76.26.117"
+        },
+        "interval_ms": 1
+      }
     }
   ]
 }
