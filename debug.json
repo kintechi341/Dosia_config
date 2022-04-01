@@ -6,40 +6,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://pravdatutnews.com/"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 20,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://kavun.city"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 25,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://mmr.net.ua"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 25,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://www.epochtimes.com.ua"
+          "path": "62.149.12.185:443"
         },
         "interval_ms": 1
       }
