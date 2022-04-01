@@ -6,7 +6,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "62.149.12.185:443"
+          "path": "https://62.149.12.185"
         },
         "interval_ms": 1
       }
