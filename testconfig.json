@@ -28,7 +28,7 @@
       "args": {
         "request": {
           "method": "GET",
-          "path": "http:144.76.26.117"
+          "path": "http://144.76.26.117"
         },
         "interval_ms": 1
       }
