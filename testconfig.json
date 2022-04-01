@@ -2,69 +2,14 @@
   "jobs": [
     {
       "type": "http",
-      "count": 20,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "http://alekseev.com.ua/"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 20,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "http://antonkisse.com"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
       "count": 25,
       "args": {
         "request": {
           "method": "GET",
-          "path": "https://dzidzio.com/"
+          "path": "https://62.149.12.185"
         },
         "interval_ms": 1
       }
-    },
-    {
-      "type": "http",
-      "count": 35,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://irinabilyk.com/"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 40,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://tsn.ua/"
-        },
-        "interval_ms": 1
-      }
-    },
-    {
-      "type": "http",
-      "count": 30,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "http://labaziuk.com/"
-        },
-        "interval_ms": 1
-      } 
     }
   ]
 }
