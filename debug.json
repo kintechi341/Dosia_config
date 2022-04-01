@@ -2,7 +2,7 @@
   "jobs": [
     {
       "type": "http",
-      "count": 25,
+      "count": 100,
       "args": {
         "request": {
           "method": "GET",
