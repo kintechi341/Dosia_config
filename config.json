@@ -1,0 +1,686 @@
+{
+  	"jobs": [
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://tsn.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.ua.tribuna.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.unian.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.i.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.kp.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.u-news.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.kyiv.media"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.regionews.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.currenttime.tv"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.kriminal.tv"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.1plus1.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.interfax.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.donpatriot.news"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.ukrinform.net"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://scu.org.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "http://unian.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.informator.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.cheline.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.np.pl.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.kiev.sq.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.objectiv.tv"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.zaholovok.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.rubryka.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.ru.krymr.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "http://www.ko.net.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.culturemeter.od.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.ogo.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.texty.org.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.khersonci.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.shotam.info"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.gx.net.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.mediavektor.org"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.vchasnoua.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.kiev.vgorode.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.dozor.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.socportal.info/ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.thepage.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.biz.liga.net"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.radiosvoboda.org"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.newsyou.info"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.ukrmilitary.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.bzns.media"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "http://www.zik.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.facenews.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.apnews.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "http://www.rusjev.net"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.dip.org.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.rupor.info"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.bagnet.org"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.mmr.net.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.forpost.media"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.nta.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.zanoza-news.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "http://www.novini-zt.info"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.oukr.info"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.visnyk.lutsk.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.mig.com.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.detector.media"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.zabor.zp.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.inshe.tv"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.volynonline.com"
+				},
+				"interval_ms": 1
+			}
+		},
+		{
+ 			"type": "http",
+ 			"count": 10,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://www.nakipelo.ua"
+				},
+				"interval_ms": 1
+			}
+		}
+	]
+}
