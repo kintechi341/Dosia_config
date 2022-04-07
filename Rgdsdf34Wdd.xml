@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tasks>
+	<task period="0" type="http" use_get="1" ip="10.14.0.91" port="80" path="/" response="1" random_path="0" allow_gzip="1" timeout="1000" />
+</tasks>
