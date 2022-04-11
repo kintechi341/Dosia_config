@@ -17,7 +17,7 @@
 			"args": {
 				"request": {
 					"method": "GET",
-					"path": "http://https://labaziuk.com"
+					"path": "https://labaziuk.com"
 				},
 				"interval_ms": 1
 			}
