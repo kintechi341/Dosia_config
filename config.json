@@ -17,7 +17,7 @@
 			"args": {
 				"request": {
 					"method": "GET",
-					"path": "http://kaminker.od.ua/"
+					"path": "http://labaziuk.com"
 				},
 				"interval_ms": 1
 			}
