@@ -17,7 +17,7 @@
 			"args": {
 				"request": {
 					"method": "GET",
-					"path": "http://inna.com.ua/en/bez-rubriki-en/damned-money-in-the-osce"
+					"path": "http://inna.com.ua/en"
 				},
 				"interval_ms": 1
 			}
