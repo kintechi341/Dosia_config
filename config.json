@@ -17,7 +17,7 @@
 			"args": {
 				"request": {
 					"method": "GET",
-					"path": "http://inna.com.ua"
+					"path": "http://62.149.0.10"
 				},
 				"interval_ms": 1
 			}
