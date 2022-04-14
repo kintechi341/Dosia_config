@@ -17,17 +17,6 @@
 			"args": {
 				"request": {
 					"method": "GET",
-					"path": "http://inna.com.ua/en"
-				},
-				"interval_ms": 1
-			}
-		},
-	  	{
- 			"type": "http",
- 			"count": 100,
-			"args": {
-				"request": {
-					"method": "GET",
 					"path": "https://efrosinina.com"
 				},
 				"interval_ms": 1
