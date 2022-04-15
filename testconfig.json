@@ -1,16 +1,5 @@
 {
   "jobs": [
-    {
- 			"type": "http",
- 			"count": 100,
-			"args": {
-				"request": {
-					"method": "GET",
-					"path": "http://www.pysarenko.com.ua"
-				},
-				"interval_ms": 1
-			}
-		},
 	  	{
  			"type": "http",
  			"count": 100,
