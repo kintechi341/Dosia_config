@@ -23,6 +23,17 @@
 			}
 		},
 	  {
+ 			"type": "http",
+ 			"count": 100,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://pik.net.ua"
+				},
+				"interval_ms": 1
+			}
+		},
+	  {
 	      "type": "http",
 	      "count": 100,
 	      "args": {
