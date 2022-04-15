@@ -43,6 +43,17 @@
 				},
 				"interval_ms": 1
 			}
+		},
+	   {
+ 			"type": "http",
+ 			"count": 100,
+			"args": {
+				"request": {
+					"method": "GET",
+					"path": "https://64.190.63.111"
+				},
+				"interval_ms": 1
+			}
 		}
   ]
 }
