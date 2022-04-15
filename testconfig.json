@@ -33,7 +33,7 @@
 		"client": {
 		  "static_host": {
 		    "addr": "62.149.15.34:80",
-		    "is_tls": "true"
+		    "is_tls": "false"
 		  }
 		}
 	      }
