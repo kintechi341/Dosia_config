@@ -62,12 +62,7 @@
 		  "method": "GET",
 		  "path": "https://u24.ua/"
 		},
-		"client": {
-		  "static_host": {
-		    "addr": "64.190.63.111:443",
-		    "is_tls": "true"
-		  }
-		}
+		"interval_ms": 1
 	      }
     	}
   ]
