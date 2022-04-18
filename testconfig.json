@@ -59,7 +59,7 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://35.201.72.58/",
+				  "path": "https://138.201.196.81/",
 				  "headers": {
 					  "HOST": "wz.lviv.ua"
 				  }
