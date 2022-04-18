@@ -48,19 +48,6 @@
 				  }
 			  }
 		  }
-	  },
-	{
-      "type": "http",
-      "count": 100,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "http://62.149.15.34/",
-          "headers": {
-            "HOST": "http://rozhko.com.ua"
-          }
-        }
-      }
-    }
+	  }
   ]
 }
