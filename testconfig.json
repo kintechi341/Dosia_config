@@ -1,50 +1,80 @@
 {
   "jobs":
   [
-	  	{
- 			"type": "http",
- 			"count": 100,
-			"args": {
-				"request": {
-					"method": "GET",
-					"path": "http://efrosinina.com"
-				},
-				"client": {
-					"static_host": {
-						"addr": "91.197.58.250:80",
-						"is_tls": "true"
-					}
-				}
-			}
-		},
-	  {
-	      "type": "http",
-	      "count": 100,
-	      "args": {
-		"request": {
-		  "method": "GET",
-		  "path": "https://pik.net.ua"
-		},
-		"client": {
-		  "static_host": {
-		    "addr": "78.47.72.135:443",
-		    "is_tls": "true"
-		  }
-		}
-	      }
-    	},
 	  {
 		  "type": "http",
 		  "count": 100,
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "http://pik.net.ua"
-			  },
-			  "client": {
-				  "static_host": {
-					  "addr": "78.47.72.135:80",
-					  "is_tls": "true"
+				  "path": "https://91.197.58.250/",
+				  "headers": {
+					  "HOST": "efrosinina.com"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://62.149.15.34/",
+				  "headers": {
+					  "HOST": "rozhko.com.ua"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://78.47.72.135/",
+				  "headers": {
+					  "HOST": "pik.net.ua"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://5.8.69.51/",
+				  "headers": {
+					  "HOST": "ua.tribuna.com"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://35.201.72.58/",
+				  "headers": {
+					  "HOST": "wz.lviv.ua"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://45.94.157.17/",
+				  "headers": {
+					  "HOST": "rivne1.tv"
 				  }
 			  }
 		  }
