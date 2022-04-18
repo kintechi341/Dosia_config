@@ -44,7 +44,10 @@
 	      "args": {
 		"request": {
 		  "method": "GET",
-		  "path": "https://rozhko.com.ua"
+		  "path": "http://62.149.15.34"
+		  "headers": {
+			"HOST": "http://rozhko.com.ua"
+		}
 		},
 		"interval_ms": 1
 	      }
