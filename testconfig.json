@@ -46,10 +46,7 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://5.9.255.186/",
-				  "headers": {
-					  "HOST": "ua.tribuna.com"
-				  }
+				  "path": "https://ua.tribuna.com/",
 			  }
 		  }
 	  },
