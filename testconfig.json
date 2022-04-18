@@ -1,16 +1,38 @@
 {
-  "jobs": [
+  "jobs":
+  [
 	  	{
  			"type": "http",
  			"count": 100,
 			"args": {
 				"request": {
 					"method": "GET",
-					"path": "https://efrosinina.com"
+					"path": "http://efrosinina.com"
 				},
-				"interval_ms": 1
+				"client": {
+					"static_host": {
+						"addr": "91.197.58.250:80",
+						"is_tls": "true"
+					}
+				}
 			}
 		},
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://pik.net.ua"
+			  },
+			  "client": {
+				  "static_host": {
+					  "addr": "78.47.72.135:443",
+					  "is_tls": "true"
+				  }
+			  }
+		  }
+	  },
 	  {
 	      "type": "http",
 	      "count": 100,
@@ -39,6 +61,6 @@
           }
         }
       }
-    },
+    }
   ]
 }
