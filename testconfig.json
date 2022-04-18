@@ -18,22 +18,6 @@
 			}
 		},
 	  {
-		  "type": "http",
-		  "count": 100,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://pik.net.ua"
-			  },
-			  "client": {
-				  "static_host": {
-					  "addr": "78.47.72.135:443",
-					  "is_tls": "true"
-				  }
-			  }
-		  }
-	  },
-	  {
 	      "type": "http",
 	      "count": 100,
 	      "args": {
