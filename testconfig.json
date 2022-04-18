@@ -46,7 +46,7 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://5.8.69.51/",
+				  "path": "https://5.9.255.186/",
 				  "headers": {
 					  "HOST": "ua.tribuna.com"
 				  }
