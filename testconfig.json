@@ -12,19 +12,6 @@
 			}
 		},
 	  {
-      "type": "http",
-      "count": 100,
-      "args": {
-        "request": {
-          "method": "GET",
-          "path": "https://194.28.86.193/",
-          "headers": {
-            "HOST": "https://server96.shentsev.com.ua"
-          }
-        }
-      }
-    },
-	  {
 	      "type": "http",
 	      "count": 100,
 	      "args": {
