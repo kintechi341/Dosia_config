@@ -7,10 +7,7 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://91.197.58.250/",
-				  "headers": {
-					  "HOST": "efrosinina.com"
-				  }
+				  "path": "https://efrosinina.com/"
 			  }
 		  }
 	  },
