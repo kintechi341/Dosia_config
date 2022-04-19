@@ -59,19 +59,6 @@
 				  }
 			  }
 		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 100,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://45.94.157.17/",
-				  "headers": {
-					  "HOST": "rivne1.tv"
-				  }
-			  }
-		  }
 	  }
   ]
 }
