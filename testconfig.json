@@ -59,6 +59,16 @@
 				  }
 			  }
 		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "http://tnmk.com",
+			  }
+		  }
 	  }
   ]
 }
