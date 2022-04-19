@@ -43,7 +43,7 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://ua.tribuna.com/",
+				  "path": "https://ua.tribuna.com/"
 			  }
 		  }
 	  },
@@ -66,7 +66,33 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "http://tnmk.com",
+				  "path": "https://80.78.249.160",
+				  "headers": {
+					  "HOST": "doctorsmm.com"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://94.130.35.110",
+				  "headers": {
+					  "HOST": "maincast.com"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 100,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "http://tnmk.com"
 			  }
 		  }
 	  }
