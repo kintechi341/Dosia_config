@@ -26,6 +26,19 @@
 	  },
 	  {
 		  "type": "http",
+		  "count": 300,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://78.47.72.135/2022/04/20/u-84-pochaty-nove-zhyttya-yak-zaraz-zhyve-u-frankivsku-vidomyj-didus-yakyj-zakolysuvav-onuchku-video/",
+				  "headers": {
+					  "HOST": "pik.net.ua"
+				  }
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
 		  "count": 200,
 		  "args": {
 			  "request": {
