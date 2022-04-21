@@ -17,19 +17,6 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://62.149.15.34/",
-				  "headers": {
-					  "HOST": "rozhko.com.ua"
-				  }
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 100,
-		  "args": {
-			  "request": {
-				  "method": "GET",
 				  "path": "https://78.47.72.135/",
 				  "headers": {
 					  "HOST": "pik.net.ua"
@@ -43,45 +30,9 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://ua.tribuna.com/"
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 100,
-		  "args": {
-			  "request": {
-				  "method": "GET",
 				  "path": "https://138.201.196.81/",
 				  "headers": {
 					  "HOST": "wz.lviv.ua"
-				  }
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 100,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://80.78.249.160",
-				  "headers": {
-					  "HOST": "doctorsmm.com"
-				  }
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 100,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://94.130.35.110",
-				  "headers": {
-					  "HOST": "maincast.com"
 				  }
 			  }
 		  }
