@@ -7,6 +7,16 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
+				  "path": "https://efrosinina.com/"
+			  }
+		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 200,
+		  "args": {
+			  "request": {
+				  "method": "GET",
 				  "path": "https://185.68.16.39/",
 				  "headers": {
 					  "HOST": "nzl.theukrainians.org"
