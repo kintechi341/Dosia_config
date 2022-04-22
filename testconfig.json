@@ -3,17 +3,7 @@
   [
 	  {
 		  "type": "http",
-		  "count": 200,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://efrosinina.com/"
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 600,
+		  "count": 1000,
 		  "args": {
 			  "request": {
 				  "method": "GET",
