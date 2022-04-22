@@ -3,23 +3,13 @@
   [
 	  {
 		  "type": "http",
-		  "count": 1000,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://efrosinina.com/"
-			  }
-		  }
-	  },
-	  {
-		  "type": "http",
 		  "count": 200,
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://185.68.16.39/",
+				  "path": "https://81.25.237.57/",
 				  "headers": {
-					  "HOST": "nzl.theukrainians.org"
+					  "HOST": "cnap.odessa.ua"
 				  }
 			  }
 		  }
