@@ -13,6 +13,16 @@
 				  }
 			  }
 		  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 5,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://efrosinina.com/"
+			  }
+		  }
 	  }
   ]
 }
