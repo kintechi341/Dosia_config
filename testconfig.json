@@ -13,19 +13,6 @@
 				  }
 			  }
 		  }
-	  },
-	  {
-		  "type": "http",
-		  "count": 5,
-		  "args": {
-			  "request": {
-				  "method": "GET",
-				  "path": "https://91.197.58.250/",
-				  "headers": {
-					  "HOST": "efrosinina.com"
-				  }
-			  }
-		  }
 	  }
   ]
 }
