@@ -3,7 +3,7 @@
   [
 	  {
 		  "type": "http",
-		  "count": 1000,
+		  "count": 5,
 		  "args": {
 			  "request": {
 				  "method": "GET",
