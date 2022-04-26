@@ -7,9 +7,9 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://81.25.237.57/",
+				  "path": "https://148.251.159.186/",
 				  "headers": {
-					  "HOST": "cnap.odessa.ua"
+					  "HOST": "donpress.com"
 				  }
 			  }
 		  }
