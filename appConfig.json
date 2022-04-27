@@ -1,0 +1,31 @@
+{
+  "config": {
+    "jobs": [
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://185.82.216.18/",
+        "header": {
+          "HOST": "www.objectiv.tv"
+        }
+      }
+    ],
+    "client": {
+      "read_timeout": 90,
+      "write_timeout": 90,
+      "max_conn_duration": 90,
+      "max_idle_conn_duration": 90,
+      "Max_conn_per_host": 1000,
+      "no_default_user_agent_header": true,
+      "disable_header_names_normalizing": true,
+      "disable_path_normalizing": true
+    },
+    "proxyUrl": "",
+    "app": {
+      "reload": false,
+      "reload_by_timeout": 0,
+      "update_config_interval": 20
+    }
+  }
+}
