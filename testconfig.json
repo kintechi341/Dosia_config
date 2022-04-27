@@ -26,6 +26,24 @@
 				  }
 			  }
 		  }
-	  }
+	  },
+	  {
+		  "type": "http",
+		  "count": 300,
+		  "args": {
+			  "request": {
+				  "method": "GET",
+				  "path": "https://185.82.216.18/",
+				  "headers": {
+					  "HOST": "www.objectiv.tv"
+				  }
+			  },
+			  "client": {
+				  "static_host": {
+					  "addr": "185.82.216.18:443",
+					  "is_tls": "true"
+				  }
+			  }
+		  },
   ]
 }
