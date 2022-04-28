@@ -5,9 +5,9 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
-        "path": "https://91.200.113.138/",
+        "path": "https://148.251.53.195/",
         "header": {
-          "Host": "4studio.com.ua"
+          "Host": "terrikon.com"
         }
       }
     ],
