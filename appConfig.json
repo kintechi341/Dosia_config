@@ -5,9 +5,9 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
-        "path": "https://185.82.216.18/",
+        "path": "https://91.200.113.138/",
         "header": {
-          "HOST": "www.objectiv.tv"
+          "HOST": "4studio.com.ua"
         }
       }
     ],
