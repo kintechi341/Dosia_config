@@ -7,7 +7,7 @@
         "method": "GET",
         "path": "https://91.200.113.138/",
         "header": {
-          "HOST": "4studio.com.ua"
+          "Host": "4studio.com.ua"
         }
       }
     ],
