@@ -3,13 +3,16 @@
   [
 	  {
 		  "type": "http",
-		  "count": 200,
+		  "count": 300,
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://91.200.113.138/",
-				  "headers": {
-					  "HOST": "4studio.com.ua"
+				  "path": "https://terricon.com/"
+			  },
+			  "client": {
+				  "static_host": {
+					  "addr": "148.251.53.195:443",
+					  "is_tls": "true"
 				  }
 			  }
 		  }
