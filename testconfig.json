@@ -7,7 +7,7 @@
 		  "args": {
 			  "request": {
 				  "method": "GET",
-				  "path": "https://terricon.com/"
+				  "path": "https://terrikon.com/"
 			  },
 			  "client": {
 				  "static_host": {
