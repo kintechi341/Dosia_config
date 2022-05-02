@@ -5,9 +5,18 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
-        "path": "https://148.251.53.195/",
+        "path": "https://92.244.96.105/",
         "header": {
-          "Host": "terrikon.com"
+          "Host": "kyiv.media"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://185.168.131.128/",
+        "header": {
+          "Host": "gx.net.ua"
         }
       }
     ],
