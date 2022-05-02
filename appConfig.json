@@ -30,7 +30,7 @@
       "disable_header_names_normalizing": true,
       "disable_path_normalizing": true
     },
-    "proxyUrl": "",
+    "proxyUrl": "https://raw.githubusercontent.com/kintechi341/Dosia_config/main/proxyList",
     "app": {
       "reload": false,
       "reload_by_timeout": 0,
