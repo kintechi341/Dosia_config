@@ -5,15 +5,6 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
-        "path": "https://92.244.96.105/",
-        "header": {
-          "Host": "kyiv.media"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 100,
-        "method": "GET",
         "path": "https://185.168.131.128/",
         "header": {
           "Host": "gx.net.ua"
