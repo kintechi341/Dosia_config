@@ -21,27 +21,9 @@
       },
       {
         "type": "HTTP",
-        "count": 100,
-        "method": "GET",
-        "path": "https://136.243.146.78/?search=украина",
-        "header": {
-          "Host": "www.bagnet.org"
-        }
-      },
-      {
-        "type": "HTTP",
         "count": 200,
         "method": "GET",
         "path": "https://88.99.41.72/",
-        "header": {
-          "Host": "inshe.tv"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 100,
-        "method": "GET",
-        "path": "https://88.99.41.72/?s=украина",
         "header": {
           "Host": "inshe.tv"
         }
