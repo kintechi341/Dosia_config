@@ -5,9 +5,27 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
-        "path": "https://185.168.131.128/",
+        "path": "https://46.4.81.58/",
         "header": {
-          "Host": "gx.net.ua"
+          "Host": "zabor.zp.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://136.243.146.78/",
+        "header": {
+          "Host": "www.bagnet.org"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://88.99.41.72/",
+        "header": {
+          "Host": "inshe.tv"
         }
       }
     ],
