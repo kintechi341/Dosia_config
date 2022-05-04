@@ -5,9 +5,9 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://46.4.81.58/",
+        "path": "https://www.bagnet.org/search?search=ukraine&start=60",
         "header": {
-          "Host": "zabor.zp.ua"
+          "Host": "www.bagnet.org"
         }
       },
       {
@@ -23,9 +23,45 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://88.99.41.72/",
+        "path": "https://www.bagnet.org/archive/2022/4/27",
         "header": {
-          "Host": "inshe.tv"
+          "Host": "www.bagnet.org"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://2day.kh.ua/sitemap.xml?page=29",
+        "header": {
+          "Host": "2day.kh.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://2day.kh.ua/search/node?keys=ukraine",
+        "header": {
+          "Host": "2day.kh.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://prm.ua/wp-admin/admin-ajax.php",
+        "header": {
+          "Host": "prm.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://prm.ua/sitemap_index.xml",
+        "header": {
+          "Host": "prm.ua"
         }
       }
     ],
