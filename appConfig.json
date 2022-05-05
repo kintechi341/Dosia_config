@@ -3,65 +3,29 @@
     "jobs": [
       {
         "type": "HTTP",
-        "count": 200,
+        "count": 100,
         "method": "GET",
-        "path": "https://www.bagnet.org/search?search=ukraine&start=60",
+        "path": "https://88.99.41.72/",
         "header": {
-          "Host": "www.bagnet.org"
+          "Host": "inshe.tv"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://88.198.26.150/",
+        "header": {
+          "Host": "odessa.online"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://136.243.146.78/",
+        "path": "https://185.68.16.43",
         "header": {
-          "Host": "www.bagnet.org"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://www.bagnet.org/archive/2022/4/27",
-        "header": {
-          "Host": "www.bagnet.org"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://2day.kh.ua/sitemap.xml?page=29",
-        "header": {
-          "Host": "2day.kh.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://2day.kh.ua/search/node?keys=ukraine",
-        "header": {
-          "Host": "2day.kh.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://prm.ua/wp-admin/admin-ajax.php",
-        "header": {
-          "Host": "prm.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://prm.ua/sitemap_index.xml",
-        "header": {
-          "Host": "prm.ua"
+          "Host": "inform.zp.ua"
         }
       }
     ],
