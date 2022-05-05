@@ -14,7 +14,25 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
+        "path": "https://88.99.41.72/?s=украина",
+        "header": {
+          "Host": "inshe.tv"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
         "path": "https://88.198.26.150/",
+        "header": {
+          "Host": "odessa.online"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://88.198.26.150/?s=украина",
         "header": {
           "Host": "odessa.online"
         }
@@ -24,6 +42,24 @@
         "count": 200,
         "method": "GET",
         "path": "https://185.68.16.43",
+        "header": {
+          "Host": "inform.zp.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://185.68.16.43/?s=украина",
+        "header": {
+          "Host": "inform.zp.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://185.68.16.43/xmlrpc.php",
         "header": {
           "Host": "inform.zp.ua"
         }
