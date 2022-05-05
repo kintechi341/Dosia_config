@@ -63,6 +63,15 @@
         "header": {
           "Host": "inform.zp.ua"
         }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://185.68.16.43/wp-admin/load-scripts.php?c=1&load=editor,common,user-profile,media-widgets,media-gallery,admin-bar,password-strength-meter,underscore,wp-util,user-profile,wp-embed&amp",
+        "header": {
+          "Host": "inform.zp.ua"
+        }
       }
     ],
     "client": {
