@@ -23,16 +23,7 @@
         "type": "HTTP",
         "count": 100,
         "method": "GET",
-        "path": "https://212.26.146.72/",
-        "header": {
-          "Host": "day.kyiv.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 100,
-        "method": "GET",
-        "path": "https://212.26.146.72/uk/archivenewspaper?archive_date%5Bvalue%5D%5Bmonth%5D=1&archive_date%5Bvalue%5D%5Byear%5D=2000",
+        "path": "https://104.21.54.83/uk/archivenewspaper?archive_date%5Bvalue%5D%5Bmonth%5D=1&archive_date%5Bvalue%5D%5Byear%5D=2000",
         "header": {
           "Host": "day.kyiv.ua"
         }
