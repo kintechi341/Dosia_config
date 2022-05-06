@@ -18,6 +18,15 @@
         "header": {
           "Host": "www.dsnews.ua"
         }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://212.26.146.72/",
+        "header": {
+          "Host": "day.kyiv.ua"
+        }
       }
     ],
     "client": {
