@@ -12,9 +12,27 @@
       },
       {
         "type": "HTTP",
-        "count": 200,
+        "count": 100,
         "method": "GET",
         "path": "https://89.184.95.76/",
+        "header": {
+          "Host": "ukroboronprom.com.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://89.184.95.76/media-centr/foto-video/minoboroni-velikoyi-britaniyi-ta-kmbs-razom-iz-ukroboronpromom-rozpocali-strategicnu-programu-navcannya-dlya-rozvitku-sistemi-ozbrojennya-ukrayini",
+        "header": {
+          "Host": "ukroboronprom.com.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://89.184.95.76/media-centr/foto-video/luckii-remontnii-zavod-motor",
         "header": {
           "Host": "ukroboronprom.com.ua"
         }
