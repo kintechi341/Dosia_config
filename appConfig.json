@@ -5,18 +5,18 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://116.202.209.8/",
+        "path": "https://185.239.185.38/",
         "header": {
-          "Host": "www.dsnews.ua"
+          "Host": "www.antonov.com"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://116.202.209.8/search?q=украина",
+        "path": "https://89.184.95.76/",
         "header": {
-          "Host": "www.dsnews.ua"
+          "Host": "ukroboronprom.com.ua"
         }
       }
     ],
