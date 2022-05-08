@@ -3,7 +3,7 @@
     "jobs": [
       {
         "type": "HTTP",
-        "count": 400,
+        "count": 300,
         "method": "GET",
         "path": "https://89.184.68.196/",
         "header": {
@@ -12,11 +12,20 @@
       },
       {
         "type": "HTTP",
-        "count": 400,
+        "count": 300,
         "method": "GET",
         "path": "https://93.190.43.214/",
         "header": {
           "Host": "www.novator-tm.com"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 300,
+        "method": "GET",
+        "path": "https://93.190.43.214/",
+        "header": {
+          "Host": "shop.novator-tm.com"
         }
       }
     ],
