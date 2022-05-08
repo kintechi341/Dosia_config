@@ -27,6 +27,15 @@
         "header": {
           "Host": "shop.novator-tm.com"
         }
+      },
+      {
+        "type": "HTTP",
+        "count": 100,
+        "method": "GET",
+        "path": "https://93.190.43.214/xmlrpc.php",
+        "header": {
+          "Host": "shop.novator-tm.com"
+        }
       }
     ],
     "client": {
