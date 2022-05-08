@@ -36,15 +36,6 @@
         "header": {
           "Host": "shop.novator-tm.com"
         }
-      },
-      {
-        "type": "HTTP",
-        "count": 400,
-        "method": "GET",
-        "path": "https://34.149.153.103/",
-        "header": {
-          "Host": "redsquareprotest.org"
-        }
       }
     ],
     "client": {
