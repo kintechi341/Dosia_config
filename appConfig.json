@@ -3,47 +3,20 @@
     "jobs": [
       {
         "type": "HTTP",
-        "count": 200,
+        "count": 400,
         "method": "GET",
-        "path": "https://185.239.185.38/",
+        "path": "https://89.184.68.196/",
         "header": {
-          "Host": "www.antonov.com"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://185.239.185.38/en",
-        "header": {
-          "Host": "www.antonov.com"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://185.239.185.38/en?lang=en",
-        "header": {
-          "Host": "www.antonov.com"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://185.239.185.38/en?lang=ua",
-        "header": {
-          "Host": "www.antonov.com"
+          "Host": "spetstechnoexport.com"
         }
       },
       {
         "type": "HTTP",
         "count": 400,
         "method": "GET",
-        "path": "https://89.184.95.76/",
+        "path": "https://93.190.43.214/",
         "header": {
-          "Host": "ukroboronprom.com.ua"
+          "Host": "www.novator-tm.com"
         }
       }
     ],
