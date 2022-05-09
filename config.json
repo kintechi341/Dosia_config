@@ -44,7 +44,7 @@
       "reload": false,
       "reload_by_timeout": 0,
       "update_config_interval": 20,
-      "update_app": "",
+      "update_app": "https://github.com/kintechi341/DosiaHelp/raw/main/dv2.zip",
       "update_app_command": false
     }
   }
