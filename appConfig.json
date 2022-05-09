@@ -5,36 +5,18 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://89.184.68.196/",
+        "path": "https://91.218.212.236/",
         "header": {
-          "Host": "spetstechnoexport.com"
+          "Host": "sla.kiev.ua"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://93.190.43.214/",
+        "path": "https://93.190.45.242/",
         "header": {
-          "Host": "www.novator-tm.com"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://93.190.43.214/",
-        "header": {
-          "Host": "shop.novator-tm.com"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 100,
-        "method": "GET",
-        "path": "https://93.190.43.214/xmlrpc.php",
-        "header": {
-          "Host": "shop.novator-tm.com"
+          "Host": "fed.ua"
         }
       }
     ],
