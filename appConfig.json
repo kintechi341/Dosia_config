@@ -3,7 +3,7 @@
     "jobs": [
       {
         "type": "HTTP",
-        "count": 200,
+        "count": 400,
         "method": "GET",
         "path": "http://91.218.212.236/",
         "header": {
@@ -12,7 +12,7 @@
       },
       {
         "type": "HTTP",
-        "count": 200,
+        "count": 400,
         "method": "GET",
         "path": "https://93.190.45.242/",
         "header": {
