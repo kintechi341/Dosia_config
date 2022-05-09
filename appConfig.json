@@ -5,7 +5,7 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "https://91.218.212.236/",
+        "path": "http://91.218.212.236/",
         "header": {
           "Host": "sla.kiev.ua"
         }
