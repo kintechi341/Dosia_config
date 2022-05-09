@@ -27,15 +27,6 @@
         "header": {
           "Host": "fed.ua"
         }
-      },
-      {
-        "type": "HTTP",
-        "count": 300,
-        "method": "GET",
-        "path": "https://93.190.45.242/xmlrpc.php",
-        "header": {
-          "Host": "fed.ua"
-        }
       }
     ],
     "client": {
