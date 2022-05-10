@@ -18,6 +18,42 @@
         "header": {
           "Host": "prozorro.gov.ua"
         }
+      },
+      {
+        "type": "HTTP",
+        "count": 400,
+        "method": "GET",
+        "path": "https://prozorro.gov.ua/api/search/plans?filterType=plans",
+        "header": {
+          "Host": "prozorro.gov.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 400,
+        "method": "GET",
+        "path": "https://prozorro.gov.ua/api/search/tenders?filterType=tenders",
+        "header": {
+          "Host": "prozorro.gov.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 400,
+        "method": "GET",
+        "path": "https://prozorro.gov.ua/api/search/tenders?filterType=tenders",
+        "header": {
+          "Host": "prozorro.gov.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 400,
+        "method": "GET",
+        "path": "https://prozorro.gov.ua/api/search/frameworks?filterType=frameworks",
+        "header": {
+          "Host": "prozorro.gov.ua"
+        }
       }
     ],
     "client": {
