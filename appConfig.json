@@ -5,9 +5,9 @@
         "type": "HTTP",
         "count": 400,
         "method": "GET",
-        "path": "http://18.156.58.129/",
+        "path": "http://195.230.148.28/",
         "header": {
-          "Host": "prozorro.gov.ua"
+          "Host": "docflow.prozorro.ua"
         }
       }
     ],
