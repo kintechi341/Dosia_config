@@ -5,9 +5,9 @@
         "type": "HTTP",
         "count": 400,
         "method": "GET",
-        "path": "http://91.218.212.236/",
+        "path": "http://18.156.58.129/",
         "header": {
-          "Host": "18.156.58.129"
+          "Host": "prozorro.gov.ua"
         }
       }
     ],
