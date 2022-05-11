@@ -39,9 +39,9 @@
       },
       {
         "type": "HTTP",
-        "count": 200,
+        "count": 400,
         "method": "GET",
-        "path": "http://89.184.74.141",
+        "path": "http://89.184.74.141/",
         "header": {
           "Host": "171charz.com"
         }
