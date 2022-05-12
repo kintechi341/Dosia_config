@@ -14,6 +14,15 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
+        "path": "http://195.78.68.77/minugol/js/a_data/__.js",
+        "header": {
+          "Host": "mpe.kmu.gov.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
         "path": "https://94.176.199.205/",
         "header": {
           "Host": "www.nerc.gov.ua"
