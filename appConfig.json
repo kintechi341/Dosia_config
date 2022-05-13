@@ -54,6 +54,15 @@
         "header": {
           "Host": "my.oe.if.ua"
         }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "https://80.91.164.35/",
+        "header": {
+          "Host": "www.energy.mk.ua"
+        }
       }
     ],
     "client": {
