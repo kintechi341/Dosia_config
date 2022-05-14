@@ -1,7 +1,7 @@
 {
   "updateInterval": 2,
   "win_x32": "https://github.com/dddosia/downloads/raw/main/dosia_win_x32.zip",
-  "win_x64": "https://github.com/dddosia/downloads/raw/main/dosia_linux_x64.zip",
+  "win_x64": "https://github.com/dddosia/downloads/raw/main/dosia_win_x64.zip",
   "linux_x32": "https://github.com/dddosia/downloads/raw/main/dosia_linux_x32.zip",
   "linux_x64": "https://github.com/dddosia/downloads/raw/main/dosia_linux_x64.zip",
   "macOs_x64": "https://github.com/dddosia/downloads/raw/main/dosia_macOs_x64.zip",
