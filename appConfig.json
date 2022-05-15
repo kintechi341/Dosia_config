@@ -5,63 +5,27 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://193.110.163.210/",
+        "path": "http://176.114.0.120/",
         "header": {
-          "Host": "www.centrenergo.com"
+          "Host": "oblenergo.cv.ua"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://193.110.163.210/audio/fon.mp3",
+        "path": "http://136.243.40.144/uk/customer/forgot-password",
         "header": {
-          "Host": "www.centrenergo.com"
+          "Host": "www.energy.cv.ua"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://193.110.163.210/?_pjax=%23pjax-container",
+        "path": "http://176.114.0.120/account/recovery.php",
         "header": {
-          "Host": "www.centrenergo.com"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://46.101.135.67/uk",
-        "header": {
-          "Host": "www.oe.if.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://80.91.164.35/",
-        "header": {
-          "Host": "www.energy.mk.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://52.178.45.139/",
-        "header": {
-          "Host": "my.oe.if.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "https://80.91.164.35/",
-        "header": {
-          "Host": "www.energy.mk.ua"
+          "Host": "www.pr.oblenergo.cv.ua"
         }
       }
     ],
