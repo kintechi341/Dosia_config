@@ -5,27 +5,36 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://176.114.0.120/",
+        "path": "http://185.68.16.27/",
         "header": {
-          "Host": "oblenergo.cv.ua"
+          "Host": "www.ukrnafta.com"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://136.243.40.144/uk/customer/forgot-password",
+        "path": "http://185.68.16.27/kurs-akczіj",
         "header": {
-          "Host": "www.energy.cv.ua"
+          "Host": "www.ukrnafta.com"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://176.114.0.120/account/recovery.php",
+        "path": "http://91.239.233.222/",
         "header": {
-          "Host": "www.pr.oblenergo.cv.ua"
+          "Host": "utg.ua"
+        }
+      },
+      {
+        "type": "HTTP",
+        "count": 200,
+        "method": "GET",
+        "path": "http://89.184.78.76/",
+        "header": {
+          "Host": "www.oblenergo.kharkov.ua"
         }
       }
     ],
