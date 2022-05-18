@@ -5,36 +5,27 @@
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://185.68.16.27/",
+        "path": "http://193.227.119.20/",
         "header": {
-          "Host": "www.ukrnafta.com"
+          "Host": "www.eximb.com"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://185.68.16.27/kurs-akczіj",
+        "path": "http://193.227.119.40/authentication/login-display.do",
         "header": {
-          "Host": "www.ukrnafta.com"
+          "Host": "bank.eximb.com"
         }
       },
       {
         "type": "HTTP",
         "count": 200,
         "method": "GET",
-        "path": "http://91.239.233.222/",
+        "path": "http://193.227.119.17/Login/",
         "header": {
-          "Host": "utg.ua"
-        }
-      },
-      {
-        "type": "HTTP",
-        "count": 200,
-        "method": "GET",
-        "path": "http://89.184.78.76/",
-        "header": {
-          "Host": "www.oblenergo.kharkov.ua"
+          "Host": "connect.eximb.com"
         }
       }
     ],
